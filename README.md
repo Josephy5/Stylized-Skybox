@@ -13,7 +13,7 @@ Based on MinionArts' Stylized skybox shader tutorial.
 - Procedural Day/Night cycle
 - Stars at night
 - Sunrise/Sunset horizons
-- Customizable clouds
+- Customizable Clouds
 - Customizable Sun and Moon
 
 ## Installation
