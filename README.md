@@ -4,11 +4,9 @@
 
 # Stylized-Skybox
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS%2B-blueviolet?logo=unity)
-![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)
-![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
-![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)
 
-A Stylized skybox shader for Unity URP (2022.3.20f1) as part of my self study on shader programming. Based on MinionArts' Stylized skybox shader tutorial.
+A Stylized skybox shader for Unity URP (2022.3.20f1) as part of my self study on shader programming. Works in URP but untested in Built-In. 
+Based on MinionArts' Stylized skybox shader tutorial.
 
 ## Features
 - Fully customizable skybox
