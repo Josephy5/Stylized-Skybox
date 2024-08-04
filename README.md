@@ -11,8 +11,9 @@ Based on MinionArts' Stylized skybox shader tutorial.
 ## Features
 - Fully customizable skybox
 - Procedural Day/Night cycle
+    - Sunsets and sunrises
 - Stars at night
-- Sunrise/Sunset horizons
+- Customizable horizons
 - Customizable Clouds
 - Customizable Sun and Moon
 
