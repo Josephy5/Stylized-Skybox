@@ -20,9 +20,10 @@ Code is based on MinionsArts' Stylized skybox shader tutorial.
 
 ## Installation
 1. Clone repo or download the asset folder and load it into an unity project.
-2. If you didn't use or create a skybox material, create a material with the skybox's shader.
-3. Go to lighting settings, replace the current skybox material with the stylized skybox material
-4. Adjust values of the skybox material to adjust how your skybox would look
+2. If you didn't use the provided one or had made a skybox material, create a material with the skybox's shader.
+3. Go to lighting settings, replace the current skybox material with the stylized skybox material.
+4. Load the noise images (the ones provided or custom one) for the clouds and/or a star background image for the stars if you want to use those features.
+5. Adjust values of the skybox material to edit how your skybox looks.
     
 ## Cresits/Assets used
  - [Stylized Skybox Shader](https://www.patreon.com/posts/27402644) by MinionsArts
