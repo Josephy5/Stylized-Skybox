@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d1863f0b-d0f9-4b33-a3e6-f8bde7cd1bc1" width="500" alt="Skybox_Early"/>
+  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="500" alt="Skybox_Early"/>
 </div>
 
 # Stylized-Skybox
@@ -32,5 +32,5 @@ Code is based on MinionsArts' Stylized skybox shader tutorial.
  - Magica Cloth 2 by Magica Soft for hair & cloth physics
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MinionsArt License](LICENSE)
 
