@@ -3,11 +3,14 @@
 </div>
 
 # Stylized-Skybox
-![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS%2B-blueviolet?logo=unity)
+![Unity Version](https://img.shields.io/badge/Unity-2022.3.20%20LTS%2B-blueviolet?logo=unity)
+![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_❌-darkgreen?logo=unity)
+![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
+![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)
 
 A Stylized skybox shader for Unity URP (2022.3.20f1) as part of my self study on shader programming. 
 Some parts of the shader code could work for built-in but is untested and may require some modifications. 
-Code is based on MinionsArts' Stylized skybox shader tutorial.
+The code is based on MinionsArts' Stylized skybox shader tutorial for Built-In, but has been re-adapted to work properly on Unity 2022 URP.
 
 ## Features
 - Fully customizable skybox
@@ -26,12 +29,8 @@ Code is based on MinionsArts' Stylized skybox shader tutorial.
 5. Adjust values of the skybox material to edit how your skybox looks.
     
 ## Cresits/Assets used
- - [Stylized Skybox Shader](https://www.patreon.com/posts/27402644) by MinionsArts
+ - [Stylized Skybox Shader](https://www.patreon.com/posts/27402644) by MinionsArts. Licensed under MinionsArts's license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
  - "[Blue Archive]Kasumizawa Miyu" (https://skfb.ly/oyBXP) by MOMO_RUI is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
  - "Japanese Vending Machine" (https://skfb.ly/6ZCEz) by filadog is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
- - Musemi by Occosoftware
- - Magica Cloth 2 by Magica Soft for hair & cloth physics
-
-## License
-[MinionsArt License](LICENSE)
-
+ - Musemi by Occosoftware. Used for presentation purposes only.
+ - Magica Cloth 2 by Magica Soft for hair & cloth physics. Used for presentation purposes only.
